@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: darkgreen;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: goldenrod;
+    font-size: 4rem;
+}
+#message-el{
+font-style: italic;
+}
+p{
+   color: #fff;
+  
+   font-size: 2rem;
+}
+
+button{
+    color: #016f32;
+    font-weight: 800;
+    width: 150px;
+    padding: 5px;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 10px;
+} 
+
+
+#apple-shelf{
+    background-color: red;
+}
+
+#orange-shelf{
+    background-color: orange;
+}
+
+div{
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    border: none;
+   margin-bottom: 30px;
+}
